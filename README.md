@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ibrohimabdurayimov5@gmail.com**
 
-- 📄 Know about my experiences [Senyo](Senyo)
+- 📄 Know about my experiences [Senior](Senior)
 
 - ⚡ Fun fact **I'am Funny**
 
