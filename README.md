@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrohim5009&label=Profile%20views&color=0e75b6&style=flat" alt="ibrohim5009" /> </p>
 
-- 🔭 I’m currently working on [hostim-html.themetags.com](Isroiljon5355 / team)
+
 
 - 🌱 I’m currently learning **Ract**
 
